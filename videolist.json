@@ -7,11 +7,10 @@
           "id": 0,
           "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
           "sources": [
-            "https://pc.tedcdn.com/talk/stream/2018/Blank/DianeWolkRogers_2018-64k.mp4"
+            "https://pc.tedcdn.com/talk/stream/2018/Blank/DianeWolkRogers_2018-950k.mp4"
           ],
           "card": "https://images.pexels.com/photos/681336/pexels-photo-681336.jpeg",
-          "background": "https://images.pexels.com/photos/681336/pexels-photo-681336.jpeg",
-          "title": "my Video pop up",
+          "background": "https://pe.tedcdn.com/images/ted/39418663a282bc5899f5d7b6ed106bc334ac612e_254x191.jpg",          "title": "my Video pop up",
           "studio": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
         },
         {
@@ -21,7 +20,7 @@
             "waterfall_stream_nature.mp4"
           ],
           "card": "waterfall_stream_nature_thumbnail.jpg",
-          "background": "waterfall_stream_nature_bg.jpg",
+          "background": "https://images.pexels.com/photos/681336/pexels-photo-681336.jpeg",
           "title": "Waterfall stream nature",
           "studio": "Pexel: https://videos.pexels.com/videos/waterfall-stream-nature-423"
         },
